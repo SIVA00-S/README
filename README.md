@@ -1,8 +1,13 @@
 # README
-echo "# README" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SIVA00-S/README.git
-git push -u origin main
+### Hi, I'm Siva 👋
+
+🎓 [Your role — e.g. "AI&DS student"]  
+💻 Interested in: Web Development, AI/ML  
+🚀 Currently preparing for: [Hackathon name]
+
+#### Tech Stack
+- Languages:Python
+- Tools:GitHub, VS Code
+
+#### 📫 Reach me
+- Email: ssivabala234@gmail.com
